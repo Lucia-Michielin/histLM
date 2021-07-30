@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lucia-Michielin/histLM/my-binder)
+
+
 <div align="center">
     <br>
     <p align="center">
